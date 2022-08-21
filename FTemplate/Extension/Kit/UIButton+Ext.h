@@ -23,7 +23,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 - (UIButton *(^)(UIImage *img))fImg;
 - (UIButton *(^)(UIImage *img,UIControlState state))fImgByState;
-- (UIButton *(^)(NSString *imgName))fimgName;
+- (UIButton *(^)(NSString *imgName))fImgName;
 - (UIButton *(^)(NSString *imgName,UIControlState state))fImgNameByState;
 
 - (UIButton *(^)(UIImage *img))fBgImg;

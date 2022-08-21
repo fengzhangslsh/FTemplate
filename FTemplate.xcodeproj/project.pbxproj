@@ -9,29 +9,30 @@
 /* Begin PBXBuildFile section */
 		7AEA5AE028A40D8200ECC18C /* FTemplate.h in Headers */ = {isa = PBXBuildFile; fileRef = 7AEA5ADF28A40D8200ECC18C /* FTemplate.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7AEA5B0828A40DC800ECC18C /* FTAlert.m in Sources */ = {isa = PBXBuildFile; fileRef = 7AEA5AE828A40DC800ECC18C /* FTAlert.m */; };
-		7AEA5B0928A40DC800ECC18C /* FTAlert.h in Headers */ = {isa = PBXBuildFile; fileRef = 7AEA5AE928A40DC800ECC18C /* FTAlert.h */; };
+		7AEA5B0928A40DC800ECC18C /* FTAlert.h in Headers */ = {isa = PBXBuildFile; fileRef = 7AEA5AE928A40DC800ECC18C /* FTAlert.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7AEA5B0A28A40DC800ECC18C /* FTToast.m in Sources */ = {isa = PBXBuildFile; fileRef = 7AEA5AEB28A40DC800ECC18C /* FTToast.m */; };
-		7AEA5B0B28A40DC800ECC18C /* FTToast.h in Headers */ = {isa = PBXBuildFile; fileRef = 7AEA5AEC28A40DC800ECC18C /* FTToast.h */; };
+		7AEA5B0B28A40DC800ECC18C /* FTToast.h in Headers */ = {isa = PBXBuildFile; fileRef = 7AEA5AEC28A40DC800ECC18C /* FTToast.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7AEA5B0C28A40DC800ECC18C /* FTKeyChain.m in Sources */ = {isa = PBXBuildFile; fileRef = 7AEA5AEE28A40DC800ECC18C /* FTKeyChain.m */; };
-		7AEA5B0D28A40DC800ECC18C /* FTKeyChain.h in Headers */ = {isa = PBXBuildFile; fileRef = 7AEA5AEF28A40DC800ECC18C /* FTKeyChain.h */; };
-		7AEA5B0E28A40DC800ECC18C /* UILabel+Ext.h in Headers */ = {isa = PBXBuildFile; fileRef = 7AEA5AF228A40DC800ECC18C /* UILabel+Ext.h */; };
-		7AEA5B0F28A40DC800ECC18C /* UIImageView+Ext.h in Headers */ = {isa = PBXBuildFile; fileRef = 7AEA5AF328A40DC800ECC18C /* UIImageView+Ext.h */; };
-		7AEA5B1028A40DC800ECC18C /* UITextField+Ext.h in Headers */ = {isa = PBXBuildFile; fileRef = 7AEA5AF428A40DC800ECC18C /* UITextField+Ext.h */; };
+		7AEA5B0D28A40DC800ECC18C /* FTKeyChain.h in Headers */ = {isa = PBXBuildFile; fileRef = 7AEA5AEF28A40DC800ECC18C /* FTKeyChain.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		7AEA5B0E28A40DC800ECC18C /* UILabel+Ext.h in Headers */ = {isa = PBXBuildFile; fileRef = 7AEA5AF228A40DC800ECC18C /* UILabel+Ext.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		7AEA5B0F28A40DC800ECC18C /* UIImageView+Ext.h in Headers */ = {isa = PBXBuildFile; fileRef = 7AEA5AF328A40DC800ECC18C /* UIImageView+Ext.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		7AEA5B1028A40DC800ECC18C /* UITextField+Ext.h in Headers */ = {isa = PBXBuildFile; fileRef = 7AEA5AF428A40DC800ECC18C /* UITextField+Ext.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7AEA5B1128A40DC800ECC18C /* UIView+Ext.m in Sources */ = {isa = PBXBuildFile; fileRef = 7AEA5AF528A40DC800ECC18C /* UIView+Ext.m */; };
-		7AEA5B1228A40DC800ECC18C /* UIButton+Ext.h in Headers */ = {isa = PBXBuildFile; fileRef = 7AEA5AF628A40DC800ECC18C /* UIButton+Ext.h */; };
+		7AEA5B1228A40DC800ECC18C /* UIButton+Ext.h in Headers */ = {isa = PBXBuildFile; fileRef = 7AEA5AF628A40DC800ECC18C /* UIButton+Ext.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7AEA5B1428A40DC800ECC18C /* UIImageView+Ext.m in Sources */ = {isa = PBXBuildFile; fileRef = 7AEA5AF828A40DC800ECC18C /* UIImageView+Ext.m */; };
 		7AEA5B1528A40DC800ECC18C /* UILabel+Ext.m in Sources */ = {isa = PBXBuildFile; fileRef = 7AEA5AF928A40DC800ECC18C /* UILabel+Ext.m */; };
-		7AEA5B1628A40DC800ECC18C /* FTKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 7AEA5AFA28A40DC800ECC18C /* FTKit.h */; };
-		7AEA5B1728A40DC800ECC18C /* UIView+Ext.h in Headers */ = {isa = PBXBuildFile; fileRef = 7AEA5AFB28A40DC800ECC18C /* UIView+Ext.h */; };
+		7AEA5B1628A40DC800ECC18C /* FTKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 7AEA5AFA28A40DC800ECC18C /* FTKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		7AEA5B1728A40DC800ECC18C /* UIView+Ext.h in Headers */ = {isa = PBXBuildFile; fileRef = 7AEA5AFB28A40DC800ECC18C /* UIView+Ext.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7AEA5B1828A40DC800ECC18C /* UITextField+Ext.m in Sources */ = {isa = PBXBuildFile; fileRef = 7AEA5AFC28A40DC800ECC18C /* UITextField+Ext.m */; };
 		7AEA5B1A28A40DC800ECC18C /* UIButton+Ext.m in Sources */ = {isa = PBXBuildFile; fileRef = 7AEA5AFE28A40DC800ECC18C /* UIButton+Ext.m */; };
 		7AEA5B1B28A40DC800ECC18C /* NSString+Ext.m in Sources */ = {isa = PBXBuildFile; fileRef = 7AEA5B0028A40DC800ECC18C /* NSString+Ext.m */; };
-		7AEA5B1C28A40DC800ECC18C /* NSMutableAttributedString+Ext.h in Headers */ = {isa = PBXBuildFile; fileRef = 7AEA5B0128A40DC800ECC18C /* NSMutableAttributedString+Ext.h */; };
-		7AEA5B1D28A40DC800ECC18C /* FTFoundation.h in Headers */ = {isa = PBXBuildFile; fileRef = 7AEA5B0228A40DC800ECC18C /* FTFoundation.h */; };
+		7AEA5B1C28A40DC800ECC18C /* NSMutableAttributedString+Ext.h in Headers */ = {isa = PBXBuildFile; fileRef = 7AEA5B0128A40DC800ECC18C /* NSMutableAttributedString+Ext.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		7AEA5B1D28A40DC800ECC18C /* FTFoundation.h in Headers */ = {isa = PBXBuildFile; fileRef = 7AEA5B0228A40DC800ECC18C /* FTFoundation.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7AEA5B1E28A40DC800ECC18C /* NSMutableAttributedString+Ext.m in Sources */ = {isa = PBXBuildFile; fileRef = 7AEA5B0328A40DC800ECC18C /* NSMutableAttributedString+Ext.m */; };
-		7AEA5B1F28A40DC800ECC18C /* NSString+Ext.h in Headers */ = {isa = PBXBuildFile; fileRef = 7AEA5B0428A40DC800ECC18C /* NSString+Ext.h */; };
-		7AEA5B2028A40DC800ECC18C /* FTDefine.h in Headers */ = {isa = PBXBuildFile; fileRef = 7AEA5B0628A40DC800ECC18C /* FTDefine.h */; };
-		7AEA5B2128A40DC800ECC18C /* FTConst.h in Headers */ = {isa = PBXBuildFile; fileRef = 7AEA5B0728A40DC800ECC18C /* FTConst.h */; };
+		7AEA5B1F28A40DC800ECC18C /* NSString+Ext.h in Headers */ = {isa = PBXBuildFile; fileRef = 7AEA5B0428A40DC800ECC18C /* NSString+Ext.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		7AEA5B2028A40DC800ECC18C /* FTDefine.h in Headers */ = {isa = PBXBuildFile; fileRef = 7AEA5B0628A40DC800ECC18C /* FTDefine.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		7AEA5B2128A40DC800ECC18C /* FTConst.h in Headers */ = {isa = PBXBuildFile; fileRef = 7AEA5B0728A40DC800ECC18C /* FTConst.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		7AEA5B3028A4142300ECC18C /* FTCommon.h in Headers */ = {isa = PBXBuildFile; fileRef = 7AEA5B2228A40DE200ECC18C /* FTCommon.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -195,8 +196,10 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7AEA5AE028A40D8200ECC18C /* FTemplate.h in Headers */,
 				7AEA5B2128A40DC800ECC18C /* FTConst.h in Headers */,
 				7AEA5B0D28A40DC800ECC18C /* FTKeyChain.h in Headers */,
+				7AEA5B3028A4142300ECC18C /* FTCommon.h in Headers */,
 				7AEA5B2028A40DC800ECC18C /* FTDefine.h in Headers */,
 				7AEA5B1028A40DC800ECC18C /* UITextField+Ext.h in Headers */,
 				7AEA5B1C28A40DC800ECC18C /* NSMutableAttributedString+Ext.h in Headers */,
@@ -204,7 +207,6 @@
 				7AEA5B1728A40DC800ECC18C /* UIView+Ext.h in Headers */,
 				7AEA5B0F28A40DC800ECC18C /* UIImageView+Ext.h in Headers */,
 				7AEA5B0E28A40DC800ECC18C /* UILabel+Ext.h in Headers */,
-				7AEA5AE028A40D8200ECC18C /* FTemplate.h in Headers */,
 				7AEA5B1628A40DC800ECC18C /* FTKit.h in Headers */,
 				7AEA5B0B28A40DC800ECC18C /* FTToast.h in Headers */,
 				7AEA5B0928A40DC800ECC18C /* FTAlert.h in Headers */,
@@ -426,6 +428,7 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -435,8 +438,9 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.slsh.FTemplate;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -453,6 +457,7 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -462,8 +467,9 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.slsh.FTemplate;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};

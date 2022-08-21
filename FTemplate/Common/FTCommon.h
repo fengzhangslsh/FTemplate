@@ -10,5 +10,5 @@
 #import "FTAlert.h"
 #import "FTKeyChain.h"
 #import "FTToast.h"
-
+#import "FTLanguage.h"
 #endif /* FTCommon_h */

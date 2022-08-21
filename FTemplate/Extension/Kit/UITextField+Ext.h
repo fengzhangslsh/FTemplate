@@ -16,7 +16,7 @@ NS_ASSUME_NONNULL_BEGIN
 - (UITextField *(^)(UIFont *font))fFont;
 - (UITextField *(^)(NSString *hint))fHint;
 /// 必须先设定hitn再设置hint颜色
-- (UITextField *(^)(UIColor *hintColor))fhintColor;
+- (UITextField *(^)(UIColor *hintColor))fHintColor;
 
 @property(readonly,nullable,strong)UIFont *hintFont;
 

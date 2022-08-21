@@ -31,6 +31,9 @@ NS_ASSUME_NONNULL_BEGIN
 /// 设置边框
 - (UIView *(^)(CGFloat width,UIColor *borderColor))fBorder;
 
+- (UIView *(^)(UIView *supView))fAddToSup;
+
+
 /// 添加点击方法
 - (UIView *(^)(CallBackBlock1 clickblock))fAddClick;
 

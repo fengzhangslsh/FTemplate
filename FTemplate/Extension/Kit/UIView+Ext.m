@@ -136,7 +136,6 @@ DEFINE_CONST(Click_tap_key)
     };
 }
 
-
 /// 设置背景颜色
 - (UIView *(^)(UIColor *color))fBgColor{
     return ^(UIColor *color){
@@ -162,7 +161,12 @@ DEFINE_CONST(Click_tap_key)
         return self;
     };
 }
-
+- (UIView *(^)(UIView *supView))fAddToSup {
+    return ^(UIView *supView){
+        [supView addSubview:self];
+        return self;
+    };
+}  
 /// 添加点击方法
 - (UIView *(^)(CallBackBlock1 clickblock))fAddClick{
     return ^(CallBackBlock1 clickblock){

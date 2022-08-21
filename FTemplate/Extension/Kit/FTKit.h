@@ -13,6 +13,6 @@
 #import "UIButton+Ext.h"
 #import "UIImageView+Ext.h"
 #import "UITextField+Ext.h"
-#import "UIViewController+Ext.h"
+#import "UIImage+Ext.h"
 #endif /* FTKifh */
 
